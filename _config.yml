@@ -4,10 +4,10 @@
 
 # Site
 title: Yunjie Wang
-subtitle:
-description:
+subtitle: Excited
+description: A human's fate should be certainly concerned with his efforts, meanwhile should be connected with the historical process.
 author: Yunjie Wang (fr42k)
-language:
+language: en
 timezone:
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
